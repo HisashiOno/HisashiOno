@@ -1,6 +1,6 @@
 # Hola👋, Bienvenido mi nombre es Hisashi Ono
 Est. de ingenieria en sistemasde la Uc Tja,mediador de aprendizaje rapido, apasionado por,os deportes, jugador avanzado de volleyball y fútbol, corista y un excelente analista 
-## Lenguajes de Prpgramación
+## Lenguajes de Programación
 Lenguajes de programación que utilizo
 [![MIT License](https://img.shields.io/badge/Thonny-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/PSeInt-yellow.svg)](https://opensource.org/licenses/)
